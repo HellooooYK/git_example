@@ -2,5 +2,6 @@
 
 int main(void){
 	using namespace std;
+	cout << "Hello";
 	return 0;
 }
